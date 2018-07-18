@@ -1,0 +1,2 @@
+# editLayout
+layout website jounal
